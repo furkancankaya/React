@@ -1,0 +1,233 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "groupId": 2,
+      "userName": "Zülal",     
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    
+    },
+    {
+      "id": 2,
+      "groupId": 1,
+      "userName": "Furkan",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 4,
+      "groupId": 1,
+      "userName": "Mehmet",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 5,
+      "groupId": 2,
+      "userName": "Ahmet",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 6,
+      "groupId": 2,
+      "userName": "Hüseyin",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 7,
+      "groupId": 3,
+      "userName": "Faruk",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 8,
+      "groupId": 2,
+      "userName": "Resul",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 9,
+      "groupId": 4,
+      "userName": "Aleyna",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 10,
+      "groupId": 1,
+      "userName": "Fatih",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 11,
+      "groupId": 4,
+      "userName": "Ayşe",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 12,
+      "groupId": 2,
+      "userName": "Ayten",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 13,
+      "groupId": 3,
+      "userName": "Deniz",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 14,
+      "groupId": 4,
+      "userName": "Derin",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 15,
+      "groupId": 2,
+      "userName": "Sena",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 16,
+      "groupId": 3,
+      "userName": "Yeşim",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 17,
+      "groupId": 1,
+      "userName": "Guiza",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 18,
+      "groupId": 2,
+      "userName": "Ecem",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 19,
+      "groupId": 3,
+      "userName": "Ece",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 20,
+      "groupId": 3,
+      "userName": "Zeki",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 21,
+      "groupId": 3,
+      "userName": "İrem",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 22,
+      "groupId": 4,
+      "userName": "Hatice",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 23,
+      "groupId": 1,
+      "userName": "Hilal",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 24,
+      "groupId": 1,
+      "userName": "Tayfur",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 25,
+      "groupId": 3,
+      "userName": "Nur",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 26,
+      "groupId": 3,
+      "userName": "Elif",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 27,
+      "groupId": 3,
+      "userName": "Gülseren",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 28,
+      "groupId": 2,
+      "userName": "Beyza",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 29,
+      "groupId": 3,
+      "userName": "Pınar",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 30,
+      "groupId": 4,
+      "userName": "Ayça",
+      "image":"images/user.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    }
+   
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "groupName": "Red Team"
+     
+    },
+    {
+      "id": 2,
+      "groupName": "Blue Team"
+     
+    },
+    {
+      "id": 3,
+      "groupName": "Green Team"
+     
+    },
+    {
+      "id": 4,
+      "groupName": "Yellow Team"
+    
+    }
+    
+   
+  ]
+}

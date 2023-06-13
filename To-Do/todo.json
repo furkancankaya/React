@@ -1,0 +1,157 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "To-Do"
+    },
+    {
+      "id": 2,
+      "name": "Doing"
+    },
+    {
+      "id": 3,
+      "name": "Completed"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "Alışveriş yap",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "title": "E-posta gönder",
+      "category_id": 2
+    },
+    {
+      "id": 3,
+      "title": "Spor yap",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "title": "Evi temizle",
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "title": "Kediyi besle",
+      "category_id": 3
+    },
+    {
+      "id": 6,
+      "title": "Rezervasyon yap",
+      "category_id": 3
+    },
+    {
+      "id": 7,
+      "title": "Köpeği dışarı çıkar",
+      "category_id": 1
+    },
+    {
+      "id": 8,
+      "title": "Meyveleri topla",
+      "category_id": 3
+    },
+    {
+      "id": 9,
+      "title": "Kuzenini ziyaret et",
+      "category_id": 2
+    },
+    {
+      "id": 10,
+      "title": "İşi tamamla",
+      "category_id": 1
+    },
+    {
+      "id": 11,
+      "title": "Kitap oku",
+      "category_id": 2
+    },
+    {
+      "id": 12,
+      "title": "Makale yaz",
+      "category_id": 3
+    },
+    {
+      "id": 13,
+      "title": "Yemek hazırla",
+      "category_id": 2
+    },
+    {
+      "id": 14,
+      "title": "Rapor hazırla",
+      "category_id": 3
+    }
+  ]
+}
+
+
+{
+  "board": {
+    "lists": [
+      "z6rBk6oz4",
+      "PZY4wxFdpE",
+      "rGT1LbeTn",
+      "JiDe9pBYD"
+    ]
+  },
+  "listsById": {
+    "z6rBk6oz4": {
+      "_id": "z6rBk6oz4",
+      "title": "First list",
+      "cards": [
+        "v3HqXIiVXD",
+        "8ZqWo40-tL"
+      ]
+    },
+    "PZY4wxFdpE": {
+      "_id": "PZY4wxFdpE",
+      "title": "Second list",
+      "cards": [
+        "cmRg8Qh1o5",
+        "xReIgGxZ3D"
+      ]
+    },
+    "rGT1LbeTn": {
+      "_id": "rGT1LbeTn",
+      "title": "asfasf",
+      "cards": [
+        "HxvxIHSZF",
+        "q9LkhzLyx"
+      ]
+    },
+    "JiDe9pBYD": {
+      "_id": "JiDe9pBYD",
+      "title": "adawd",
+      "cards": []
+    }
+  },
+  "cardsById": {
+    "v3HqXIiVXD": {
+      "text": "First card",
+      "_id": "v3HqXIiVXD"
+    },
+    "8ZqWo40-tL": {
+      "text": "Second card",
+      "_id": "8ZqWo40-tL"
+    },
+    "cmRg8Qh1o5": {
+      "text": "Card 1",
+      "_id": "cmRg8Qh1o5"
+    },
+    "xReIgGxZ3D": {
+      "text": "Card 2",
+      "_id": "xReIgGxZ3D"
+    },
+    "HxvxIHSZF": {
+      "text": "sgfsdf",
+      "_id": "HxvxIHSZF"
+    },
+    "q9LkhzLyx": {
+      "text": "awdawd",
+      "_id": "q9LkhzLyx"
+    }
+  }
+}

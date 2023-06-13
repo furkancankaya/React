@@ -1,0 +1,46 @@
+{
+  "api": {
+    "board": {
+      "lists": [
+        "8Rkg4zRfe",
+        "n-XpaNk_Cp"
+      ]
+    },
+    "listsById": {
+      "8Rkg4zRfe": {
+        "_id": "8Rkg4zRfe",
+        "title": "First list",
+        "cards": [
+          "LK9Zbt6a0u",
+          "BZx4WrGN2s"
+        ]
+      },
+      "n-XpaNk_Cp": {
+        "_id": "n-XpaNk_Cp",
+        "title": "Second list",
+        "cards": [
+          "hJxfpPsrxu",
+          "cwWZeHRtBG"
+        ]
+      }
+    },
+    "cardsById": {
+      "LK9Zbt6a0u": {
+        "text": "First card",
+        "_id": "LK9Zbt6a0u"
+      },
+      "BZx4WrGN2s": {
+        "text": "Second card",
+        "_id": "BZx4WrGN2s"
+      },
+      "hJxfpPsrxu": {
+        "text": "Card 1",
+        "_id": "hJxfpPsrxu"
+      },
+      "cwWZeHRtBG": {
+        "text": "Card 2",
+        "_id": "cwWZeHRtBG"
+      }
+    }
+  }
+}

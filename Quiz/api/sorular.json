@@ -1,0 +1,246 @@
+{
+  "sorular": [
+    {
+      "id": 1,
+      "soru": "Soru 1",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 2,
+      "soru": "Soru 2",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 3,
+      "soru": "Soru 3",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 4,
+      "soru": "Soru 4",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 5,
+      "soru": "Soru 5",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 6,
+      "soru": "Soru 7",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 8,
+      "soru": "Soru 8",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 9,
+      "soru": "Soru 9",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 10,
+      "soru": "Soru 10",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 11,
+      "soru": "Soru 11",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 12,
+      "soru": "Soru 12",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 13,
+      "soru": "Soru 13",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 14,
+      "soru": "Soru 14",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 15,
+      "soru": "Soru 15",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 16,
+      "soru": "Soru 16",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 17,
+      "soru": "Soru 17",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 18,
+      "soru": "Soru 18",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 19,
+      "soru": "Soru 19",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 20,
+      "soru": "Soru 20",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 21,
+      "soru": "Soru 21",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 22,
+      "soru": "Soru 22",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 23,
+      "soru": "Soru 23",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 24,
+      "soru": "Soru 24",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 25,
+      "soru": "Soru 25",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 26,
+      "soru": "Soru 26",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 27,
+      "soru": "Soru 27",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 28,
+      "soru": "Soru 28",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 29,
+      "soru": "Soru 29",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 30,
+      "soru": "Soru 30",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 31,
+      "soru": "Soru 31",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 32,
+      "soru": "Soru 32",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 33,
+      "soru": "Soru 33",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 34,
+      "soru": "Soru 34",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    },
+    {
+      "id": 34,
+      "soru": "Soru 34",
+      "secenekler": ["A", "B", "C", "D"],
+      "dogruCevap": "A",   
+      "image":"images/product.jpg"
+    }
+    
+   
+  ]
+  
+  
+}
